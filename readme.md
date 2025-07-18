@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Del Lopes</h1>
 <h3 align="center">Italian-Brazilian Software Developer</h3>
 
-- 📫 How to reach me **delcontato2@gmail.com**
+📫 How to reach me **delcontato2@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
