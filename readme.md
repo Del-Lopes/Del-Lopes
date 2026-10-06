@@ -1,32 +1,105 @@
-<h1 align="center">Hi 👋, I'm Del Lopes</h1>
-<h3 align="center">Italian-Brazilian Software Developer</h3>
+# Hi, I'm Del Lopes 👋
 
-📫 How to reach me **delcontato2@gmail.com**
+### Full Stack Product Engineer | TypeScript · React · Node.js · AI
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-</p>
+I'm a Full Stack Product Engineer focused on building SaaS platforms,
+AI-powered applications, automation systems and financial technology products.
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a>  
-         <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> 
-    <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> 
-    <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-    <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> 
-    <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> 
-    <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> 
-    <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-    <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> 
-    <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> 
-    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> 
-    <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> 
-    <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> 
-</p>
+I enjoy working across the entire product lifecycle — from understanding
+the business problem and designing the architecture to building, deploying
+and improving production software.
 
-<div style="display: inline_block"><br>
-  <a href="https://www.linkedin.com/in/del-lopes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
-  <a href="https://instagram.com/delnoinsta" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+### 🚀 What I Work With
 
-</div>
+**Frontend**
+- TypeScript
+- JavaScript
+- React
+- Next.js
+- React Native
+- Tailwind CSS
+
+**Backend**
+- Node.js
+- Fastify
+- REST APIs
+- Prisma
+- Python
+
+**Data & Infrastructure**
+- PostgreSQL
+- Supabase
+- Redis
+- Docker
+- Vercel
+- Cloudflare
+- GitHub Actions
+
+**AI & Automation**
+- LLM APIs
+- AI Agents
+- AI-powered applications
+- n8n
+- API integrations
+- Background jobs & automation
+
+### 🧩 Selected Projects
+
+#### Trader AFK
+Financial technology platform focused on trading automation,
+financial systems and trading-related products.
+
+**Focus:** Fintech · Trading Systems · Automation · SaaS
+
+#### DD Media Hub
+A multi-tenant platform for managing digital products, business
+operations and AI-powered workflows.
+
+**Focus:** SaaS · Multi-tenancy · AI · APIs · Product Engineering
+
+#### Instagram Squad
+AI-powered content automation architecture using specialized agents
+and workflow orchestration.
+
+**Focus:** AI Agents · Automation · APIs · n8n
+
+#### Clinical CRM
+A customer relationship and operational platform designed for
+healthcare-related workflows.
+
+**Focus:** CRM · PWA · AI · Data · Business Automation
+
+#### AI Computer Vision
+AI-powered computer vision applications integrating image analysis
+with real-world business workflows.
+
+**Focus:** AI · Computer Vision · APIs · Automation
+
+### 💡 Engineering Approach
+
+I care about building software that is:
+
+- Reliable
+- Maintainable
+- Scalable
+- Practical
+- Aligned with real business requirements
+
+I particularly enjoy solving problems that sit between
+**software engineering, product development and automation.**
+
+### 🌎 Open to International Opportunities
+
+I'm currently looking for remote opportunities as a:
+
+- Full Stack Engineer
+- Product Engineer
+- Software Engineer
+- AI Application Engineer
+
+🇧🇷 Brazilian & 🇮🇹 Italian citizen · EU work authorization
+
+### 📫 Connect
+
+- LinkedIn: [Del Lopes](https://www.linkedin.com/in/del-lopes/)
+- Portfolio: [DD Media Hub](https://hub.ddmedia.com.br/Del-lopes?lang=pt)
