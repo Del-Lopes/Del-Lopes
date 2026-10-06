@@ -4,7 +4,7 @@
 
 I build production-oriented web products, SaaS platforms and fintech applications from architecture to deployment.
 
-10+ years building digital products across frontend, backend, integrations and product engineering.
+5+ years building digital products across frontend, backend, integrations and product engineering.
 
 ### Core Stack
 
